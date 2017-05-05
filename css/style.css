@@ -28,13 +28,14 @@
 .texx{
   color: #f2b632 !important;
   font-weight: bold !important;
-  font-size: 140% !important;
+  font-size: 100% !important;
   background-color: #000000 !important;
 
 }
 
   .topbuttons{
     color:#ffffff !important;
+    font-size: 70% !important;
   }
  .dottext {
 
@@ -50,6 +51,7 @@
    color: #f2b632 !important;
     padding-bottom: 20px !important;
      padding-top: 20px !important;
+      font-size: 95% !important;
 
 border-left-color:#677077 !important;
 border-left-style:solid !important;
