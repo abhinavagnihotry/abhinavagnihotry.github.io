@@ -129,3 +129,9 @@ fieldset[disabled] .mbtn-primary.focus {
   color: #fff;
   background-color: #fff;
 }
+
+
+.active-but{
+    background-color: #3c415d;
+}
+

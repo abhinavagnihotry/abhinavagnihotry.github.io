@@ -1,3 +1,17 @@
+ .bg-1 {
+      background-color: #1abc9c;
+      color: #ffffff;
+  }
+  .bg-2 {
+      background-color: #474e5d;
+      color: #ffffff;
+  }
+
+.bg-3 {
+      background-color: #1abc9c;
+      color: #ffffff;
+  }
+
 
 .backcol{
     background-color: #b5b5b7;
@@ -24,7 +38,23 @@
   }
   .navbar-nav  li a:hover {
     color: #6090c4 !important;
+    background-color: #3c415d !important;
   }
+
+.active-but{
+    background-color: #3c415d;
+}
+
+
+
+.about-text{
+        padding-top: 80px;
+
+}
+
+
+
+
 .texx{
   color: #f2b632 !important;
   font-weight: bold !important;
@@ -38,11 +68,12 @@
     font-size: 70% !important;
   }
 
-img{
-  padding: 30px ;
-}
 
+  .myimg{
+    padding-top: 80px;
+    padding-bottom: 35px;
+  }
 
-.active-but{
-    background-color: #3c415d;
-}
+  .logo :hover {
+    padding-bottom: 20px;
+  }
