@@ -1,6 +1,7 @@
  .bg-1 {
       background-color: #1abc9c;
       color: #ffffff;
+      padding-bottom: 25px;
   }
   .bg-2 {
       background-color: #474e5d;
@@ -36,7 +37,8 @@
      padding-right: 0;
     padding-left: 0;
   }
-  .navbar-nav  li a:hover {
+
+.navbar-nav  li a:hover {
     color: #6090c4 !important;
     background-color: #3c415d !important;
   }
@@ -45,15 +47,10 @@
     background-color: #3c415d;
 }
 
-
-
 .about-text{
         padding-top: 80px;
 
 }
-
-
-
 
 .texx{
   color: #f2b632 !important;
@@ -74,6 +71,40 @@
     padding-bottom: 35px;
   }
 
+.contact-details{
+  color: #ffffff;
+  background-color: #09182D !important;
+  padding: 20px !important;
+  border-color: #1abc9c !important;
+  border-left-color:#1abc9c !important;
+  border-left-style:solid !important;
+  border-left-width:40px !important;
+  border-right-width: 40px !important;
+  border-right-color:#1abc9c !important;
+  border-right-style:solid !important;
+}
+
+.emptyrow{
+  padding: 20px;
+  background-color: #1abc9c;
+}
+
+.logos{
+  margin: 10px;
+}
+
+.email-link{
+  background-color: #09182D !important;
+  color: #ffffff !important;
+  border-color: #09182D !important ;
+}
+
+
   .logo :hover {
     padding-bottom: 20px;
   }
+
+.education-details{
+  padding:  20px;
+  margin: 20px;
+}
