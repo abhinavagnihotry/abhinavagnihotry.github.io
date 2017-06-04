@@ -67,39 +67,6 @@
   border-style: solid !important;
 }
 
-/*
-  border-width: 0px !important;
- }
-
-.bottom-buttons {
-  margin-left: 10%;
-  margin-right: 10%;
-}
-
-.ghost-button {
-  display: inline-block;
-  width: 200px;
-  margin-top: 2%;
-  padding: 1.25% ;
-  font-size: 115%;
-  color: #252839 ;
-  border: 2px solid #252839 ;
-  text-align: center;
-  outline: none;
-  text-decoration: none;
-  transition: background-color 0.2s ease-out,
-              color 0.2s ease-out;
-}
-.ghost-button:hover,
-.ghost-button:active {
-  background-color: #252839;
-  color: #f2b632;
-  transition: background-color 0.3s ease-in,
-              color 0.3s ease-in;
-}
-*/
-
-
  .btmright{
   border-right-color:#b5b5b7 !important;
   border-right-style:solid !important;
