@@ -21,8 +21,8 @@
 }
 
 .navbar-nav  li a:hover {
-    color: #6090c4 !important;
-    background-color: #3c415d !important;
+    color: #fff !important;
+    background-color: #FF6959 !important;
   }
 
 .active-but{
@@ -58,23 +58,7 @@
 .bottom-buttons {
   background-color: #252839 !important;
   color: #f2b632 !important;
-  font-size: 100% !important;
-
-  padding-bottom: 1.5% !important;
-  padding-top: 1.5% !important;
-  border-radius: 0px !important;
-  border-color: #b5b5b7 !important;
-  border-left-color:#b5b5b7 !important;
-  border-top-width: 0.75% !important;
-  border-left-width:10px !important;
-  border-bottom-width: 10px !important;
-  border-style: solid !important;
-}
-
- .btmright{
-  border-right-color:#b5b5b7 !important;
-  border-right-style:solid !important;
-  border-right-width:10px !important;
+    border-radius: 0px !important;
 
  }
 
@@ -92,10 +76,22 @@
       line-height: 1.8;
       color: #f5f6f7;
   }
+
   p {font-size: 16px;}
+
   .margin {margin-bottom: 45px;}
+
+  .margin-top{margin-top: 5%;}
+
+  .btn .btn-primary .btn-lg .btn-block{
+    border-radius: 0px !important;
+    background-color: #252839 !important;
+    color: #f2b632;
+  }
+
   .bg-1 {
-      background-color: #1abc9c; /* Green */
+
+      background-color: #FF6959; /* Green */
       color: #ffffff;
       margin: 1.5% ;
       padding: 1% !important;
@@ -120,16 +116,28 @@
       padding: 2% !important;
       border-style:solid !important;
       border-color:#b5b5b7 !important;
-      border-left-width:40px !important;
-      border-right-width: 40px !important;
+      border-left-width:20px !important;
+      border-right-width: 20px !important;
       background-color: #ffffff; /* White */
       color: #555555;
   }
   .bg-4 {
       background-color: #2f2f2f; /* Black Gray */
       color: #fff;
+      padding: 2% !important;
+      /*padding-top: 2% !important;*/
   }
+
   .container-fluid {
       padding-top: 70px;
       padding-bottom: 70px;
+  }
+
+  .videobox{
+    color: #000;
+    background-color: #d9d9d9  !important;
+    padding: 1%;
+    padding-top: 5%;
+     border: 2px solid #fff;
+    margin-top: 3%;
   }
